@@ -27,11 +27,11 @@ function myFunction() {
 
   */
 
-  let thisSheet = SpreadsheetApp.openById("1DBfSiFMMjZhTknRooSBTVEEfkWO5vdbYi2GW_rSyL7g"); // CHANGE THIS!
+  let thisSheet = SpreadsheetApp.openById("REDACTED FOR PRIVACY"); // CHANGE THIS!
   SpreadsheetApp.setActiveSpreadsheet(thisSheet);
   SpreadsheetApp.setActiveSheet(thisSheet.getSheets()[0]); // CHANGE THIS!
 
-  let thisCalendar = CalendarApp.getCalendarById("67qtvqj90qsh1bhghatnk7gcms@group.calendar.google.com"); // CHANGE THIS!
+  let thisCalendar = CalendarApp.getCalendarById("REDACTED FOR PRIVACY"); // CHANGE THIS!
 
   let dates;
   let titles;
