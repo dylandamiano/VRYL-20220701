@@ -14,17 +14,6 @@ function myFunction() {
 
     Information that needs to be changed will have an comment with "CHANGE THIS!" next to it.
 
-    >> Created for Vyral Teq <<
-
-    ╔╗─╔╗─────────╔══╗
-    ║╚╦╝╠╦╦╦╦═╗╔╗─╚╗╔╩╦═╗
-    ╚╗║╔╣║║╔╣╬╚╣╚╗─║║╩╣╬║
-    ─╚═╝╠╗╠╝╚══╩═╝─╚╩═╩╗║
-    ────╚═╝────────────╚╝
-
-    !! IMPORTANT NOTICE !!
-    DO NOT MAKE CHANGES UNLESS YOU KNOW WHAT YOU ARE DOING!
-
   */
 
   let thisSheet = SpreadsheetApp.openById("REDACTED FOR PRIVACY"); // CHANGE THIS!
